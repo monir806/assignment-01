@@ -295,6 +295,8 @@ span {
 
 .row {
     margin: 50px;
+    border: none;
+    border-radius: 1px;
 }
 
 .news {
